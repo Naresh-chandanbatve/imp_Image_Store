@@ -1,0 +1,64 @@
+body{  
+              
+    margin-top: 100px;  
+    margin-bottom: 100px;  
+    margin-right: 150px;  
+    margin-left: 80px;  
+    background-color: azure ;  
+    color: yellow;  
+    font-family: verdana;  
+      
+        }  
+            h1 {  
+    color: indigo;  
+    font-family: verdana;  
+    font-size: 30px;  
+}  
+        h3 {  
+    color: indigo;  
+    font-family: verdana;  
+    font-size: 100%;  
+
+        }
+
+    .submit_btn Input {
+             border-radius: 15px;
+             Font-Size:50px;
+             Color:#000000;
+             Background-Color:#ffff00;
+             box-shadow: 10px 10px 10px black;
+             }
+
+.inp Input { 
+            Font-size:50Px;
+            Border-color:#000000;
+            Float:Center;
+            height:50px;
+               Width:380px;
+              }
+
+.inp {
+    font-size: 30px;
+}              
+
+
+.lnks {
+       Background-color:#9999ff;
+       Float:Right;
+       height:50px;
+       width:230px;
+       border-radius: 15px;
+       box-shadow: 10px 10px 10px black;
+       }  
+
+fieldset {
+    background-color: rgb(125, 99, 99);
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+    width: max-content;
+    padding: 100px;
+}
+
+p {
+    color: #ffff00;
+}

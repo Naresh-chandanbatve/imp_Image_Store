@@ -1,0 +1,51 @@
+
+        body{  
+              
+            margin-top: 100px;  
+            margin-bottom: 100px;  
+            margin-right: 150px;  
+            margin-left: 80px;  
+            background-color: azure ;  
+
+              
+                }  
+                    h2 {  
+            color: indigo;  
+            font-family: verdana;  
+           font-size: 100%;  
+           
+        }  
+                h1 {  
+            color: indigo;  
+            font-family: verdana;  
+            font-size: 30px;  
+        }  
+        h3 {  
+            color: indigo;  
+            font-family: verdana;  
+            font-size: 35px;  
+        
+          }
+                   
+        
+          
+                .lnks {
+                          Background-color:#9999ff;
+                           Float:Right;
+                          height:50px;
+                          width:230px;
+                          border-radius: 15px;
+                          box-shadow: 10px 10px 10px grey;
+                         } 
+                  
+                  .container {
+                          Background-color:rgb(125, 99, 99);
+                          height:980px;
+                          width:980px;
+                          border-radius: 15px;
+                          box-shadow: 10px 10px 10px black;
+                       }
+    
+
+
+             
