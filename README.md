@@ -49,7 +49,8 @@
       Password varchar(15),
       uploadindex int(70) );
    ```
-   6) now start the server
-   7) make sure MySQL is running properly
-   8) open browser and enter the localhost with respected port number.
-   9) now one more important step... enjoy :)
+   6) Don't forget to change the Host Name, Database User, Database Password And Database Name in all the files.
+   7) now start the server
+   8) make sure MySQL is running properly
+   9) open browser and enter the localhost with respected port number.
+   10) now one more important step... enjoy :)
