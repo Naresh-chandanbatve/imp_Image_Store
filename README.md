@@ -14,7 +14,20 @@
 
 
 <br><br>
-<img src="">
+### Login Page
+<img height="400px" width="600px" src="https://github.com/Naresh-chandanbatve/imp_Image_Store/blob/main/ss/login.png?raw=true">
+<br>
+
+### Dashboard
+<img height="400px" width="600px" src="https://github.com/Naresh-chandanbatve/imp_Image_Store/blob/main/ss/dashboard.png?raw=true">
+<br> 
+
+### Upload Page
+<img height="400px" width="600px" src="https://github.com/Naresh-chandanbatve/imp_Image_Store/blob/main/ss/uploadpage.png?raw=true">
+<br>
+
+### My Uploads
+<img height="400px" width="600px" src="https://github.com/Naresh-chandanbatve/imp_Image_Store/blob/main/ss/uploads.png?raw=true">
 <br><br>
 
 ## steps to set up project locally
