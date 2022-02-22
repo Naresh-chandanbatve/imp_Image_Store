@@ -1,5 +1,19 @@
 # imp_Image_Store
 
+
+### Image store web app where we can store our 16 imp images with password protection
+
+<br>
+
+## teck used 
+1) php
+2) MySQL DBMS
+3) html
+4) CSS
+5) javaSript
+
+<br><br>
+
 ## steps to set up project locally
 1) first get the code using either zip or running
  ```bash
