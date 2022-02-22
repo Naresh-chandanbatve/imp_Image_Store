@@ -49,7 +49,10 @@
       Password varchar(15),
       uploadindex int(70) );
    ```
-   6) Don't forget to change the Host Name, Database User, Database Password And Database Name in all the files.
+   6) Don't forget to change the Host Name, Database User, Database Password And Database Name in all the files which includes following line
+      ```bash
+       mysqli_connect('localhost','root','Naresh@12', 'sql_auth');
+      ```
    7) now start the server
    8) make sure MySQL is running properly
    9) open browser and enter the localhost with respected port number.
