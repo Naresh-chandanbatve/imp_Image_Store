@@ -12,6 +12,9 @@
 4) CSS
 5) javaSript
 
+
+<br><br>
+<img src="">
 <br><br>
 
 ## steps to set up project locally
