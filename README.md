@@ -35,7 +35,7 @@
  ```bash
  git clone https://github.com/Naresh-chandanbatve/imp_Image_Store.git
  ```
- 2) install any sever like apache or xamp.
+ 2) install any sevver like apache or xamp.
  3) install MySQL database.
  4) inside MySQL database create database of name 'sql_auth'
  5) then run the following SQL query 
