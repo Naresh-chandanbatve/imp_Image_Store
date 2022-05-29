@@ -30,7 +30,7 @@
 <img height="400px" width="600px" src="https://github.com/Naresh-chandanbatve/imp_Image_Store/blob/main/ss/uploads.png?raw=true">
 <br><br>
 
-## steps to set up project locally
+## Steps to set up project locally
 1) first get the code using either zip or running
  ```bash
  git clone https://github.com/Naresh-chandanbatve/imp_Image_Store.git
@@ -57,3 +57,9 @@
    8) make sure MySQL is running properly
    9) open browser and enter the localhost with respected port number.
    10) now one more important step... enjoy :)
+
+
+
+## OpenSource 
+ This project is a open source proejct. feel free to make contributions to this project by opening issues, adding new features and fixing the bug. 
+
