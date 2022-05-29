@@ -61,5 +61,5 @@
 
 
 ## OpenSource 
- This project is a open source proejct. feel free to make contributions to this project by opening issues, adding new features and fixing the bug. 
+ This project is a open source project. feel free to make contributions to this project by opening issues, adding new features and fixing the bug. 
 
